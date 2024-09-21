@@ -9,7 +9,7 @@ Predicting stock prices is a challenging task due to the dynamic nature of finan
 
 ## Notebooks
 
-This repository contains two notebooks. [The first one](https://github.com/Akif4362/lstm_research/blob/main/Prediction_of_Stock_Price_using_LSTM_(full_data).ipynb) uses the full data of the 10 companies to train and test. [The second notebook](https://github.com/Akif4362/lstm_research/blob/main/Prediction_of_Stock_Price_using_LSTM_(research_data).ipynb) uses only the portion of the data that was used in the original paper so that a better comparison can be attained.
+This repository contains two notebooks. [The first one](https://github.com/Akif4362/lstm_research/blob/main/Prediction_of_Stock_Price_using_LSTM_(full_data).ipynb) uses the full data of the 10 companies to train and test, as LSTMs work better with larger datasets. [The second notebook](https://github.com/Akif4362/lstm_research/blob/main/Prediction_of_Stock_Price_using_LSTM_(research_data).ipynb) uses only the portion of the data that was used in the original paper so that a better comparison can be attained.
 
 ## Dataset
 
